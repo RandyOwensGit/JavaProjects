@@ -1,4 +1,4 @@
-# A collection of my favorite Java projects that I have created.  
+# A collection of my own favorite Java projects
 #### Combination of self-made, course work, and other projects.  
   
 ## Minesweeper  
