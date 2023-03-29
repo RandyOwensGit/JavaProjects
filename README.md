@@ -1,4 +1,4 @@
-# A collection of my favorite Java projects that I have created.  
+# A collection of my own favorite Java projects
 #### Combination of self-made, course work, and other projects.  
   
 ## Minesweeper  
@@ -14,5 +14,3 @@ As well as many fun nested for loops :)
 #### Project TODO: 
 - [ ] Implement seperate version for this Repo with those changes  
 - [ ] Freshen up the code as well as comments  
-
-## Readability Score  
