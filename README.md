@@ -1,7 +1,9 @@
 # A collection of my own favorite Java projects
 #### Combination of self-made, course work, and other projects.  
+&nbsp;
+
   
-## Minesweeper  
+## [Minesweeper](/Minesweeper)  
 
 My favorite project I have created so far.  
 Fully functioning Minesweeper game inside console.
@@ -14,3 +16,18 @@ As well as many fun nested for loops :)
 #### Project TODO: 
 - [ ] Implement seperate version for this Repo with those changes  
 - [ ] Freshen up the code as well as comments  
+&nbsp;
+
+
+## [MagicSquare](/MagicSquare)  
+
+Create a magic square from user entered odd number  
+Each row, column, & diagonal will total the same value  
+Uses Siamese Method (algorithm?)  
+value corresponds to its place in the centered square numbers order  
+
+- [x] Project Completed  
+&nbsp;
+
+
+## next project to be added  
