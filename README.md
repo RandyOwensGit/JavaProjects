@@ -1,8 +1,7 @@
-### A collection of my favorite Java projects that I have created.  
+# A collection of my favorite Java projects that I have created.  
 #### Combination of self-made, course work, and other projects.  
   
-  
-#### Minesweeper  
+## Minesweeper  
 
 My favorite project I have created so far.  
 Fully functioning Minesweeper game inside CLI.  
@@ -15,3 +14,5 @@ As well as many fun nested for loops :)
 #### Project TODO: 
 - [ ] Implement seperate version for this Repo with those changes  
 - [ ] Freshen up the code as well as comments  
+
+## Readability Score  
