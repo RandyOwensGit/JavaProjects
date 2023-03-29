@@ -4,7 +4,7 @@
 ## Minesweeper  
 
 My favorite project I have created so far.  
-Fully functioning Minesweeper game inside CLI.  
+Fully functioning Minesweeper game inside console.
 
 Implements flood fill algorithm to recursively fill out board 
 As well as many fun nested for loops :)  
