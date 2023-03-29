@@ -14,5 +14,3 @@ As well as many fun nested for loops :)
 #### Project TODO: 
 - [ ] Implement seperate version for this Repo with those changes  
 - [ ] Freshen up the code as well as comments  
-
-## Readability Score  
