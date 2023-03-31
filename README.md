@@ -5,11 +5,10 @@
   
 ## [Minesweeper](/Minesweeper)  
 
-My favorite project I have created so far.  
 Fully functioning Minesweeper game inside console.
 
 Implements flood fill algorithm to recursively fill out board 
-As well as many fun nested for loops :)  
+As well as many 'fun' nested for loops :)  
 
 #### With a few small changes can operate very modular, allowing the user to choose their own board size.  
 
