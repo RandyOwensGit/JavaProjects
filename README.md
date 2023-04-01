@@ -29,4 +29,13 @@ value corresponds to its place in the centered square numbers order
 &nbsp;
 
 
-## next project to be added  
+## [Worm Game](/WormGame)  
+  
+The classic worm game where you eat apples and grow.  
+Fairly rudimentary  
+  
+- [x] Project Completed  
+&nbsp;  
+  
+## Next Project  
+
