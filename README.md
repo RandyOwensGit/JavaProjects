@@ -31,7 +31,7 @@ value corresponds to its place in the centered square numbers order
 
 ## [Worm Game](/WormGame)  
   
-The classic worm game where you eat apples and grow.  
+The classic worm game where you eat 'apples' and grow.  
 Fairly rudimentary  
   
 - [x] Project Completed  
